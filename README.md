@@ -1,5 +1,5 @@
 ### Hi there 👋
-🎓 GXU
+🎓 master in EE, GXU
 
 #### Java is life, C++ is magic, Rust is future
 <!--
