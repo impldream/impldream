@@ -1,6 +1,6 @@
 ### Hi there 👋
 🎓 master in EE, GXU
-
+✨ fancier in os & program languages
 #### Java is life, C++ is magic, Rust is future
 <!--
 **impldream/impldream** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
